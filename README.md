@@ -60,3 +60,5 @@ Note that you solution must work for a 2D array of size n x n.
 Note also that the 2D array will be a square. That is, it will have the same number of rows as columns, and all rows will be of the same length.
 
 <i>Good luck, have fun! </i> =)
+
+Darren Liu
